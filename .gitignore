@@ -1,0 +1,10 @@
+# .gitignore
+
+config.py
+/Meta
+/Train
+/Train_Augmented
+/Test
+/weights
+/yolov9/TSR-7
+/yolov9/README.md
